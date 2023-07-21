@@ -7,4 +7,4 @@ Los ejercicios tendrán un orden por número de ejercicio LeetCode y por nivel d
 
 ## Ejercicios(Nivel medio):
 
-## Ejercicios(Nivel díficil):
+## Ejercicios(Nivel difícil):
